@@ -1,39 +1,31 @@
 const express = require('express');
-const sequelize = require('./config/database');
+const cors = require('cors');
 require('dotenv').config();
+const connectDB = require('./config/database');
 
-// Import models
-const Food = require('./models/Food');
-const { Meal, MealFood } = require('./models/Meal');
-const DailyPlan = require('./models/DailyPlan');
-const { MealPlan, Allergen, DietaryRestriction } = require('./models/MealPlan');
-
-// Import routes
-const mealPlanRoutes = require('./routes/mealPlanRoutes');
+const initApiRoutes = require('./routes/initApiRoutes');
 
 const app = express();
 
+// Connect to MongoDB
+connectDB();
+
 // Middleware
+app.use(cors());
 app.use(express.json());
 
 // Routes
-app.use('/api', mealPlanRoutes);
+initApiRoutes(app);
 
-// Test database connection
-async function testConnection() {
-    try {
-        await sequelize.authenticate();
-        console.log('Database connection established successfully.');
-        
-        // Sync all models with database
-        await sequelize.sync({ alter: true });
-        console.log('Database models synchronized successfully.');
-    } catch (error) {
-        console.error('Unable to connect to the database:', error);
-    }
-}
-
-testConnection();
+// Error handling middleware
+app.use((err, req, res, next) => {
+    console.error(err.stack);
+    res.status(500).json({
+        EC: 1,
+        EM: 'Something went wrong!',
+        DT: null
+    });
+});
 
 // Start server
 const PORT = process.env.PORT || 5000;

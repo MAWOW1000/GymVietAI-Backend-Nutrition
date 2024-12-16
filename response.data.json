@@ -1,0 +1,875 @@
+{
+    "DT": {
+        "macro_targets": {
+            "calories": 2263.4320476190464,
+            "carbs": 254.68336825396827,
+            "fat": 50.26947460317459,
+            "protein": 198.03439523809527
+        },
+        "weekly_plan": {
+            "daily_plans": {
+                "Friday": {
+                    "daily_totals": {
+                        "calories": 2158.47,
+                        "carbs": 297.49,
+                        "fat": 62.64,
+                        "protein": 128.11
+                    },
+                    "date": "2024-12-20T10:54:11.373448",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 318.7,
+                                    "carbs": 71.34,
+                                    "fat": 0.92,
+                                    "food_name": "bulgur",
+                                    "portion_grams": 383.98,
+                                    "protein": 11.83
+                                },
+                                {
+                                    "calories": 218.87,
+                                    "carbs": 55.64,
+                                    "fat": 1.27,
+                                    "food_name": "blueberries",
+                                    "portion_grams": 383.98,
+                                    "protein": 2.84
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 537.57,
+                            "total_carbs": 126.98,
+                            "total_fat": 2.19,
+                            "total_protein": 14.67
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 292.91,
+                                    "carbs": 12.26,
+                                    "fat": 4.43,
+                                    "food_name": "clams",
+                                    "portion_grams": 340.59,
+                                    "protein": 51.09
+                                },
+                                {
+                                    "calories": 51.09,
+                                    "carbs": 12.36,
+                                    "fat": 0.37,
+                                    "food_name": "cucumber",
+                                    "portion_grams": 340.59,
+                                    "protein": 2.21
+                                },
+                                {
+                                    "calories": 301.08,
+                                    "carbs": 0.0,
+                                    "fat": 34.06,
+                                    "food_name": "avocado oil",
+                                    "portion_grams": 34.06,
+                                    "protein": 0.0
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 645.08,
+                            "total_carbs": 24.62,
+                            "total_fat": 38.86,
+                            "total_protein": 53.3
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 291.54,
+                                    "carbs": 12.54,
+                                    "fat": 7.46,
+                                    "food_name": "mussels",
+                                    "portion_grams": 339.01,
+                                    "protein": 40.68
+                                },
+                                {
+                                    "calories": 149.16,
+                                    "carbs": 33.76,
+                                    "fat": 0.61,
+                                    "food_name": "beets",
+                                    "portion_grams": 339.01,
+                                    "protein": 5.7
+                                },
+                                {
+                                    "calories": 311.88,
+                                    "carbs": 67.6,
+                                    "fat": 2.1,
+                                    "food_name": "buckwheat",
+                                    "portion_grams": 339.01,
+                                    "protein": 11.46
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 752.58,
+                            "total_carbs": 113.9,
+                            "total_fat": 10.17,
+                            "total_protein": 57.84
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 126.0,
+                                    "carbs": 31.98,
+                                    "fat": 0.42,
+                                    "food_name": "grapefruit",
+                                    "portion_grams": 300,
+                                    "protein": 2.31
+                                },
+                                {
+                                    "calories": 97.24,
+                                    "carbs": 0.0,
+                                    "fat": 11.0,
+                                    "food_name": "avocado oil",
+                                    "portion_grams": 11,
+                                    "protein": 0.0
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 223.24,
+                            "total_carbs": 31.98,
+                            "total_fat": 11.42,
+                            "total_protein": 2.31
+                        }
+                    }
+                },
+                "Monday": {
+                    "daily_totals": {
+                        "calories": 2263.35,
+                        "carbs": 294.56,
+                        "fat": 50.15,
+                        "protein": 181.08
+                    },
+                    "date": "2024-12-16T10:54:11.366448",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 564.0,
+                                    "carbs": 109.84,
+                                    "fat": 10.1,
+                                    "food_name": "cereal",
+                                    "portion_grams": 150,
+                                    "protein": 18.14
+                                },
+                                {
+                                    "calories": 2.08,
+                                    "carbs": 0.55,
+                                    "fat": 0.01,
+                                    "food_name": "apple",
+                                    "portion_grams": 4,
+                                    "protein": 0.01
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 566.08,
+                            "total_carbs": 110.39,
+                            "total_fat": 10.11,
+                            "total_protein": 18.15
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 378.0,
+                                    "carbs": 15.9,
+                                    "fat": 1.8,
+                                    "food_name": "seitan",
+                                    "portion_grams": 300,
+                                    "protein": 75.0
+                                },
+                                {
+                                    "calories": 81.0,
+                                    "carbs": 16.05,
+                                    "fat": 1.35,
+                                    "food_name": "banana peppers",
+                                    "portion_grams": 300,
+                                    "protein": 4.98
+                                },
+                                {
+                                    "calories": 218.54,
+                                    "carbs": 26.34,
+                                    "fat": 9.51,
+                                    "food_name": "pumpkin seeds",
+                                    "portion_grams": 49,
+                                    "protein": 9.09
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 677.54,
+                            "total_carbs": 58.29,
+                            "total_fat": 12.66,
+                            "total_protein": 89.07
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 432.0,
+                                    "carbs": 0.0,
+                                    "fat": 20.4,
+                                    "food_name": "veal",
+                                    "portion_grams": 300,
+                                    "protein": 57.0
+                                },
+                                {
+                                    "calories": 66.0,
+                                    "carbs": 12.33,
+                                    "fat": 0.66,
+                                    "food_name": "asparagus",
+                                    "portion_grams": 300,
+                                    "protein": 7.2
+                                },
+                                {
+                                    "calories": 293.97,
+                                    "carbs": 67.45,
+                                    "fat": 1.05,
+                                    "food_name": "barley",
+                                    "portion_grams": 239,
+                                    "protein": 5.4
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 791.97,
+                            "total_carbs": 79.78,
+                            "total_fat": 22.11,
+                            "total_protein": 69.6
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 150.0,
+                                    "carbs": 39.36,
+                                    "fat": 0.36,
+                                    "food_name": "pineapple",
+                                    "portion_grams": 300,
+                                    "protein": 1.62
+                                },
+                                {
+                                    "calories": 77.76,
+                                    "carbs": 6.74,
+                                    "fat": 4.92,
+                                    "food_name": "chia seeds",
+                                    "portion_grams": 16,
+                                    "protein": 2.65
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 227.76,
+                            "total_carbs": 46.1,
+                            "total_fat": 5.28,
+                            "total_protein": 4.27
+                        }
+                    }
+                },
+                "Saturday": {
+                    "daily_totals": {
+                        "calories": 2232.02,
+                        "carbs": 269.25,
+                        "fat": 66.1,
+                        "protein": 154.65
+                    },
+                    "date": "2024-12-21T10:54:11.375447",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 388.43,
+                                    "carbs": 81.54,
+                                    "fat": 2.88,
+                                    "food_name": "brown rice",
+                                    "portion_grams": 346.82,
+                                    "protein": 8.05
+                                },
+                                {
+                                    "calories": 149.13,
+                                    "carbs": 33.33,
+                                    "fat": 1.7,
+                                    "food_name": "blackberries",
+                                    "portion_grams": 346.82,
+                                    "protein": 4.82
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 537.56,
+                            "total_carbs": 114.87,
+                            "total_fat": 4.58,
+                            "total_protein": 12.87
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 590.52,
+                                    "carbs": 0.0,
+                                    "fat": 37.83,
+                                    "food_name": "beef",
+                                    "portion_grams": 228,
+                                    "protein": 59.53
+                                },
+                                {
+                                    "calories": 88.2,
+                                    "carbs": 20.3,
+                                    "fat": 0.15,
+                                    "food_name": "sweet potato",
+                                    "portion_grams": 98,
+                                    "protein": 1.97
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 678.72,
+                            "total_carbs": 20.3,
+                            "total_fat": 37.98,
+                            "total_protein": 61.5
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 336.0,
+                                    "carbs": 7.2,
+                                    "fat": 4.5,
+                                    "food_name": "lobster",
+                                    "portion_grams": 300,
+                                    "protein": 64.5
+                                },
+                                {
+                                    "calories": 279.0,
+                                    "carbs": 63.45,
+                                    "fat": 0.39,
+                                    "food_name": "potatoes",
+                                    "portion_grams": 300,
+                                    "protein": 7.5
+                                },
+                                {
+                                    "calories": 178.13,
+                                    "carbs": 31.82,
+                                    "fat": 3.06,
+                                    "food_name": "oats",
+                                    "portion_grams": 47,
+                                    "protein": 6.18
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 793.13,
+                            "total_carbs": 102.47,
+                            "total_fat": 7.95,
+                            "total_protein": 78.18
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 90.0,
+                                    "carbs": 31.62,
+                                    "fat": 0.6,
+                                    "food_name": "lime",
+                                    "portion_grams": 300,
+                                    "protein": 2.1
+                                },
+                                {
+                                    "calories": 132.6,
+                                    "carbs": 0.0,
+                                    "fat": 15.0,
+                                    "food_name": "olive oil",
+                                    "portion_grams": 15,
+                                    "protein": 0.0
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 222.6,
+                            "total_carbs": 31.62,
+                            "total_fat": 15.6,
+                            "total_protein": 2.1
+                        }
+                    }
+                },
+                "Sunday": {
+                    "daily_totals": {
+                        "calories": 2258.71,
+                        "carbs": 262.72,
+                        "fat": 80.18,
+                        "protein": 123.52
+                    },
+                    "date": "2024-12-22T10:54:11.377448",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 537.99,
+                                    "carbs": 67.07,
+                                    "fat": 22.99,
+                                    "food_name": "pancakes",
+                                    "portion_grams": 237,
+                                    "protein": 15.17
+                                },
+                                {
+                                    "calories": 28.22,
+                                    "carbs": 6.36,
+                                    "fat": 0.4,
+                                    "food_name": "pomegranate",
+                                    "portion_grams": 34,
+                                    "protein": 0.57
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 566.21,
+                            "total_carbs": 73.43,
+                            "total_fat": 23.39,
+                            "total_protein": 15.74
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 615.0,
+                                    "carbs": 0.0,
+                                    "fat": 42.0,
+                                    "food_name": "mackerel",
+                                    "portion_grams": 300,
+                                    "protein": 56.4
+                                },
+                                {
+                                    "calories": 48.0,
+                                    "carbs": 10.2,
+                                    "fat": 0.3,
+                                    "food_name": "radishes",
+                                    "portion_grams": 300,
+                                    "protein": 2.04
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 663.0,
+                            "total_carbs": 10.2,
+                            "total_fat": 42.3,
+                            "total_protein": 58.44
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 243.0,
+                                    "carbs": 15.0,
+                                    "fat": 6.9,
+                                    "food_name": "oysters",
+                                    "portion_grams": 300,
+                                    "protein": 28.5
+                                },
+                                {
+                                    "calories": 93.0,
+                                    "carbs": 18.09,
+                                    "fat": 0.9,
+                                    "food_name": "cherry peppers",
+                                    "portion_grams": 300,
+                                    "protein": 2.97
+                                },
+                                {
+                                    "calories": 455.84,
+                                    "carbs": 85.01,
+                                    "fat": 5.81,
+                                    "food_name": "rye",
+                                    "portion_grams": 176,
+                                    "protein": 14.96
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 791.84,
+                            "total_carbs": 118.1,
+                            "total_fat": 13.61,
+                            "total_protein": 46.43
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 237.66,
+                                    "carbs": 60.99,
+                                    "fat": 0.88,
+                                    "food_name": "banana",
+                                    "portion_grams": 267.03,
+                                    "protein": 2.91
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 237.66,
+                            "total_carbs": 60.99,
+                            "total_fat": 0.88,
+                            "total_protein": 2.91
+                        }
+                    }
+                },
+                "Thursday": {
+                    "daily_totals": {
+                        "calories": 2230.62,
+                        "carbs": 292.72,
+                        "fat": 61.41,
+                        "protein": 136.31
+                    },
+                    "date": "2024-12-19T10:54:11.372439",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 566.58,
+                                    "carbs": 105.26,
+                                    "fat": 7.09,
+                                    "food_name": "bread",
+                                    "portion_grams": 213,
+                                    "protein": 18.85
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 566.58,
+                            "total_carbs": 105.26,
+                            "total_fat": 7.09,
+                            "total_protein": 18.85
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 268.97,
+                                    "carbs": 0.0,
+                                    "fat": 2.3,
+                                    "food_name": "cod",
+                                    "portion_grams": 328.02,
+                                    "protein": 60.36
+                                },
+                                {
+                                    "calories": 101.69,
+                                    "carbs": 24.99,
+                                    "fat": 0.66,
+                                    "food_name": "leeks",
+                                    "portion_grams": 328.02,
+                                    "protein": 2.66
+                                },
+                                {
+                                    "calories": 274.42,
+                                    "carbs": 14.84,
+                                    "fat": 21.67,
+                                    "food_name": "flax seeds",
+                                    "portion_grams": 51.39,
+                                    "protein": 9.4
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 645.08,
+                            "total_carbs": 39.83,
+                            "total_fat": 24.63,
+                            "total_protein": 72.42
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 429.0,
+                                    "carbs": 2.16,
+                                    "fat": 28.53,
+                                    "food_name": "eggs",
+                                    "portion_grams": 300,
+                                    "protein": 37.68
+                                },
+                                {
+                                    "calories": 348.0,
+                                    "carbs": 82.44,
+                                    "fat": 0.42,
+                                    "food_name": "yams",
+                                    "portion_grams": 300,
+                                    "protein": 4.47
+                                },
+                                {
+                                    "calories": 15.36,
+                                    "carbs": 3.36,
+                                    "fat": 0.24,
+                                    "food_name": "corn",
+                                    "portion_grams": 16,
+                                    "protein": 0.55
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 792.36,
+                            "total_carbs": 87.96,
+                            "total_fat": 29.19,
+                            "total_protein": 42.7
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 226.6,
+                                    "carbs": 59.66,
+                                    "fat": 0.51,
+                                    "food_name": "breadfruit",
+                                    "portion_grams": 220,
+                                    "protein": 2.35
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 226.6,
+                            "total_carbs": 59.66,
+                            "total_fat": 0.51,
+                            "total_protein": 2.35
+                        }
+                    }
+                },
+                "Tuesday": {
+                    "daily_totals": {
+                        "calories": 2196.24,
+                        "carbs": 219.27,
+                        "fat": 89.41,
+                        "protein": 146.99
+                    },
+                    "date": "2024-12-17T10:54:11.368448",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 322.54,
+                                    "carbs": 59.1,
+                                    "fat": 5.0,
+                                    "food_name": "amaranth",
+                                    "portion_grams": 316.21,
+                                    "protein": 12.02
+                                },
+                                {
+                                    "calories": 215.03,
+                                    "carbs": 45.28,
+                                    "fat": 3.0,
+                                    "food_name": "guava",
+                                    "portion_grams": 316.21,
+                                    "protein": 8.06
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 537.57,
+                            "total_carbs": 104.38,
+                            "total_fat": 8.0,
+                            "total_protein": 20.08
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 678.18,
+                                    "carbs": 0.0,
+                                    "fat": 55.88,
+                                    "food_name": "lamb",
+                                    "portion_grams": 254,
+                                    "protein": 43.18
+                                },
+                                {
+                                    "calories": 0.84,
+                                    "carbs": 0.16,
+                                    "fat": 0.01,
+                                    "food_name": "mushrooms",
+                                    "portion_grams": 3,
+                                    "protein": 0.07
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 679.02,
+                            "total_carbs": 0.16,
+                            "total_fat": 55.89,
+                            "total_protein": 43.25
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 305.87,
+                                    "carbs": 0.0,
+                                    "fat": 5.42,
+                                    "food_name": "fish",
+                                    "portion_grams": 318.61,
+                                    "protein": 65.06
+                                },
+                                {
+                                    "calories": 98.77,
+                                    "carbs": 23.26,
+                                    "fat": 0.64,
+                                    "food_name": "fennel",
+                                    "portion_grams": 318.61,
+                                    "protein": 3.95
+                                },
+                                {
+                                    "calories": 347.96,
+                                    "carbs": 38.34,
+                                    "fat": 17.3,
+                                    "food_name": "granola",
+                                    "portion_grams": 71.16,
+                                    "protein": 9.73
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 752.6,
+                            "total_carbs": 61.6,
+                            "total_fat": 23.36,
+                            "total_protein": 78.74
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 225.0,
+                                    "carbs": 53.13,
+                                    "fat": 2.04,
+                                    "food_name": "cherimoya",
+                                    "portion_grams": 300,
+                                    "protein": 4.71
+                                },
+                                {
+                                    "calories": 2.06,
+                                    "carbs": 0.0,
+                                    "fat": 0.12,
+                                    "food_name": "salmon",
+                                    "portion_grams": 1,
+                                    "protein": 0.22
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 227.06,
+                            "total_carbs": 53.13,
+                            "total_fat": 2.16,
+                            "total_protein": 4.93
+                        }
+                    }
+                },
+                "Wednesday": {
+                    "daily_totals": {
+                        "calories": 2259.02,
+                        "carbs": 273.03,
+                        "fat": 43.98,
+                        "protein": 202.65
+                    },
+                    "date": "2024-12-18T10:54:11.370447",
+                    "meals": {
+                        "breakfast": {
+                            "foods": [
+                                {
+                                    "calories": 510.0,
+                                    "carbs": 72.08,
+                                    "fat": 21.86,
+                                    "food_name": "muffins",
+                                    "portion_grams": 136,
+                                    "protein": 6.11
+                                },
+                                {
+                                    "calories": 55.5,
+                                    "carbs": 14.38,
+                                    "fat": 0.22,
+                                    "food_name": "figs",
+                                    "portion_grams": 75,
+                                    "protein": 0.56
+                                }
+                            ],
+                            "meal_type": "breakfast",
+                            "total_calories": 565.5,
+                            "total_carbs": 86.46,
+                            "total_fat": 22.08,
+                            "total_protein": 6.67
+                        },
+                        "dinner": {
+                            "foods": [
+                                {
+                                    "calories": 495.0,
+                                    "carbs": 0.0,
+                                    "fat": 10.71,
+                                    "food_name": "chicken breast",
+                                    "portion_grams": 300,
+                                    "protein": 93.06
+                                },
+                                {
+                                    "calories": 105.0,
+                                    "carbs": 21.54,
+                                    "fat": 1.23,
+                                    "food_name": "broccoli",
+                                    "portion_grams": 300,
+                                    "protein": 7.14
+                                },
+                                {
+                                    "calories": 76.44,
+                                    "carbs": 8.56,
+                                    "fat": 4.38,
+                                    "food_name": "dark chocolate",
+                                    "portion_grams": 14,
+                                    "protein": 0.68
+                                }
+                            ],
+                            "meal_type": "dinner",
+                            "total_calories": 676.44,
+                            "total_carbs": 30.1,
+                            "total_fat": 16.32,
+                            "total_protein": 100.88
+                        },
+                        "lunch": {
+                            "foods": [
+                                {
+                                    "calories": 327.0,
+                                    "carbs": 0.0,
+                                    "fat": 1.5,
+                                    "food_name": "tuna",
+                                    "portion_grams": 300,
+                                    "protein": 72.0
+                                },
+                                {
+                                    "calories": 447.0,
+                                    "carbs": 99.18,
+                                    "fat": 1.5,
+                                    "food_name": "garlic",
+                                    "portion_grams": 300,
+                                    "protein": 19.08
+                                },
+                                {
+                                    "calories": 17.78,
+                                    "carbs": 3.7,
+                                    "fat": 0.12,
+                                    "food_name": "spelt",
+                                    "portion_grams": 14,
+                                    "protein": 0.77
+                                }
+                            ],
+                            "meal_type": "lunch",
+                            "total_calories": 791.78,
+                            "total_carbs": 102.88,
+                            "total_fat": 3.12,
+                            "total_protein": 91.85
+                        },
+                        "snack": {
+                            "foods": [
+                                {
+                                    "calories": 198.0,
+                                    "carbs": 50.52,
+                                    "fat": 0.9,
+                                    "food_name": "soursop",
+                                    "portion_grams": 300,
+                                    "protein": 3.0
+                                },
+                                {
+                                    "calories": 27.3,
+                                    "carbs": 3.06,
+                                    "fat": 1.56,
+                                    "food_name": "dark chocolate",
+                                    "portion_grams": 5,
+                                    "protein": 0.24
+                                }
+                            ],
+                            "meal_type": "snack",
+                            "total_calories": 225.3,
+                            "total_carbs": 53.58,
+                            "total_fat": 2.46,
+                            "total_protein": 3.24
+                        }
+                    }
+                }
+            },
+            "plan_metadata": {
+                "allergens": [
+                    "dairy",
+                    "nuts"
+                ],
+                "dietary_restrictions": [
+                    "none"
+                ],
+                "end_date": "2024-12-22T10:54:11.366448",
+                "generated_at": "2024-12-16T10:54:11.366448",
+                "macro_targets": {
+                    "calories": 2263.4320476190464,
+                    "carbs": 254.68336825396827,
+                    "fat": 50.26947460317459,
+                    "protein": 198.03439523809527
+                },
+                "start_date": "2024-12-16T10:54:11.366448"
+            }
+        }
+    },
+    "EC": 0,
+    "EM": ""
+}
